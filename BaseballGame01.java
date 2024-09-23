@@ -44,7 +44,7 @@ public class BaseballGame01 {
         int n1, n2, n3;
 
         do {
-            System.out.print(" □ □ □ 숫자를 입력하세요");    // 숫자 사이에 공백도 함께 입력.
+            System.out.print(" □ □ □ 숫자를 입력하세요(숫자 사이에 공백도 함께 입력)");
             System.out.println("");
             n1 = scan.nextInt();
             n2 = scan.nextInt();
